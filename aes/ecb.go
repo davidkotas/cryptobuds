@@ -2,8 +2,8 @@ package aes
 
 import (
 	"crypto/aes"
-	"cryptopals/model"
-	"cryptopals/padding"
+	"cryptobuds/model"
+	"cryptobuds/padding"
 )
 
 type AesEcb struct {

@@ -1,8 +1,8 @@
 package set01
 
 import (
-	"cryptopals/aes"
-	"cryptopals/model"
+	"cryptobuds/aes"
+	"cryptobuds/model"
 	"encoding/base64"
 	"encoding/hex"
 	"io/ioutil"

@@ -1,8 +1,8 @@
 package set01
 
 import (
-	"cryptopals/model"
-	"cryptopals/xor"
+	"cryptobuds/model"
+	"cryptobuds/xor"
 	"log"
 	"testing"
 )

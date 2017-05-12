@@ -1,7 +1,7 @@
 package set02
 
 import (
-	"cryptopals/aes"
+	"cryptobuds/aes"
 	"log"
 	"testing"
 )

@@ -2,9 +2,9 @@ package aes
 
 import (
 	"crypto/aes"
-	"cryptopals/model"
-	"cryptopals/padding"
-	"cryptopals/xor"
+	"cryptobuds/model"
+	"cryptobuds/padding"
+	"cryptobuds/xor"
 	"errors"
 )
 

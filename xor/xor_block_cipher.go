@@ -1,7 +1,7 @@
 package xor
 
 import (
-	"cryptopals/model"
+	"cryptobuds/model"
 	"errors"
 )
 

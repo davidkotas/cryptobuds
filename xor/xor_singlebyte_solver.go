@@ -2,7 +2,7 @@ package xor
 
 import (
 	//"log"
-	"cryptopals/analysis"
+	"cryptobuds/analysis"
 	"math"
 )
 

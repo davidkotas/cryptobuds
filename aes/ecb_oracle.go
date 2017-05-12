@@ -1,7 +1,7 @@
 package aes
 
 import (
-	"cryptopals/model"
+	"cryptobuds/model"
 )
 
 type EcbOracle struct {

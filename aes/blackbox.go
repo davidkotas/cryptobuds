@@ -1,7 +1,7 @@
 package aes
 
 import (
-	"cryptopals/util"
+	"cryptobuds/util"
 )
 
 type AesBlockBox struct {

@@ -1,8 +1,8 @@
 package aes
 
 import (
-	"cryptopals/model"
-	"cryptopals/util"
+	"cryptobuds/model"
+	"cryptobuds/util"
 	"errors"
 )
 

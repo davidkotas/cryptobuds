@@ -1,8 +1,8 @@
 package xor
 
 import (
-	"cryptopals/analysis"
-	"cryptopals/model"
+	"cryptobuds/analysis"
+	"cryptobuds/model"
 )
 
 type XORRepeatingKeyLengthCalculator struct {

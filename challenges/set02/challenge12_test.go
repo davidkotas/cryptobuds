@@ -1,9 +1,9 @@
 package set02
 
 import (
-	"cryptopals/aes"
-	"cryptopals/model"
-	"cryptopals/util"
+	"cryptobuds/aes"
+	"cryptobuds/model"
+	"cryptobuds/util"
 	"encoding/base64"
 	"io/ioutil"
 	"log"
